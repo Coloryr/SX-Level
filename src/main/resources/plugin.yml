@@ -1,0 +1,17 @@
+name: SX-Level
+main: github.saukiya.sxlevel.SXLevel
+version: ${version}
+author:
+- Saukiya
+softdepend:
+- MythicMobs
+
+commands:
+   sxlevel:
+      usage: error! please reload this plugin
+      aliases:
+      - sl
+
+permissions:
+  sx-level.use:
+    default: true
