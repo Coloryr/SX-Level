@@ -5,49 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1375b5e0-c624-40bf-adc0-e263604c5fb0" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SL.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SX_Level.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Saukiya.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/template-meta.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SX-Level.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/SXLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/api/SXLevelAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/bstats/Metrics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/CommandList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/MainCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/SenderType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/SubCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/sub/AddCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/sub/ReloadCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/sub/SetCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/sub/TakeCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/command/sub/UpdateLocalDataToSqlCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/data/ExpData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/data/ExpDataManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/event/ChangeType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/event/SXExpChangeEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/event/SXLevelUpEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/listener/OnListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/listener/OnMythicmobsDeathListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/sql/MySQLConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/sql/MySQLExecutorService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/util/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/util/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github/saukiya/sxlevel/util/Placeholders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/MythicMobs-4.3.2-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/github/saukiya/sxlevel/util/Placeholders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/github/saukiya/sxlevel/util/Placeholders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,5 +105,16 @@
       <updated>1611293343574</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/github/saukiya/sxlevel/data/ExpDataManager.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

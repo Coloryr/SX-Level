@@ -14,6 +14,7 @@ public class Placeholders extends PlaceholderExpansion {
 
     public Placeholders(SXLevel plugin) {
         this.plugin = plugin;
+        register();
     }
 
     @Override
